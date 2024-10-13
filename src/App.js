@@ -30,22 +30,19 @@ function App() {
                     You may be wondering why the government programs aren’t good enough, or why the effectiveness of said programs is under question. Well the former prisoners face many challenges after being released, including finding employment, housing, or receiving healthcare. The reform programs are only able to do so much for the ones who gave it their all and really tried to do better. Once they are released they will have extreme difficulty in finding a job. “A Bureau of Justice Statistics (BJS) Study found that one-third of federal prisoners released in 2010 did not find employment within four years” (Finlay, 2022, 1). When former prisoners can’t find work, they tend to go back to what they previously did to earn quick cash. That leaves a scary temptation for inmates to commit the same crimes in order to provide for themselves. In summary of this topic, a reform program in order to be successful needs to have a way for the former prisoners to earn a living outside of the justice system. Once they are released we can’t just expect them to go get a job like nothing happened especially if they have a felony conviction or have a drug related charge.
                 </p>
                 <div>
-                    <p>
-                        <p className='references'>
-                            References used:
-                        </p>
-                        <p className='ref-sources'>
-                            Nancy La Vigne (2024) Transforming Correctional Culture and Climate ojp.gov <br />
-                            Avery G Wilks (2019) To curb jail violence, repeat offenders, SC prisons take page from Europe’s playbook  vera.org <br />
-                            Keith Finlay (2022) Great Recession Had Long-Term Economic Impact on People With Felony Convictions, Prison Time census.gov <br />
-                            Bureau of Justice Statistics (2021) Recidivism of Prisoners Released in 34 States in 2012: A 5-Year Follow-Up Period (2012–2017) ojp.gov
-                        </p>
+                    <p className='references'>
+                        References used:
                     </p>
+                        <div className='ref-sources'>
+                            <p className='notworking'>Nancy La Vigne (2024) Transforming Correctional Culture and Climate ojp.gov</p>
+                            <p>Avery G Wilks (2019) To curb jail violence, repeat offenders, SC prisons take page from Europe’s playbook  vera.org</p>
+                            <p>Keith Finlay (2022) Great Recession Had Long-Term Economic Impact on People With Felony Convictions, Prison Time census.gov</p>
+                            <p>Bureau of Justice Statistics (2021) Recidivism of Prisoners Released in 34 States in 2012: A 5-Year Follow-Up Period (2012–2017)</p>
+                        </div>
                 </div>
-
             </div>
     </div>
-  );
+);
 }
 
 export default App;
